@@ -13,3 +13,13 @@
 .hero_section {
   background-color: #fff9f4 !important;
 }
+
+.hero_title {
+  font-weight: 700;
+  font-size: 80px;
+  line-height: 80px;
+}
+
+.card-img-top {
+  background-color: #f1f1f1;
+}
